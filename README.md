@@ -1,2 +1,2 @@
-# Platzi-Python
-Code from Platzi courses about python
+# Learning-Python
+Code from courses and tutorials about python
