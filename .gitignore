@@ -2,3 +2,5 @@
 **.env/
 **/media
 **/__pychache__/
+**.pyc
+**.idea/
